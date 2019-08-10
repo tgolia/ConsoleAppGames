@@ -1,0 +1,11 @@
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\bin\Debug\netcoreapp2.2\MessingAround.deps.json
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\bin\Debug\netcoreapp2.2\MessingAround.runtimeconfig.json
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\bin\Debug\netcoreapp2.2\MessingAround.runtimeconfig.dev.json
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\bin\Debug\netcoreapp2.2\MessingAround.dll
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\bin\Debug\netcoreapp2.2\MessingAround.pdb
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.csprojAssemblyReference.cache
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.csproj.CoreCompileInputs.cache
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.AssemblyInfoInputs.cache
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.AssemblyInfo.cs
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.dll
+C:\Users\Travis\Dev\MessingAround\MessingAround\MessingAround\obj\Debug\netcoreapp2.2\MessingAround.pdb
