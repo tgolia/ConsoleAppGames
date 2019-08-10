@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Travis\\Dev\\MessingAround\\MessingAround\\MessingAround\\Hangman.csproj",
+      "projectUniqueName": "C:\\Users\\Travis\\Dev\\ConsoleAppGames\\ConsoleAppGames\\ConsoleAppGames\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Users\\Travis\\Dev\\MessingAround\\MessingAround\\MessingAround\\Hangman.csproj",
+      "projectPath": "C:\\Users\\Travis\\Dev\\ConsoleAppGames\\ConsoleAppGames\\ConsoleAppGames\\Hangman.csproj",
       "packagesPath": "C:\\Users\\Travis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Travis\\Dev\\MessingAround\\MessingAround\\MessingAround\\obj\\",
+      "outputPath": "C:\\Users\\Travis\\Dev\\ConsoleAppGames\\ConsoleAppGames\\ConsoleAppGames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

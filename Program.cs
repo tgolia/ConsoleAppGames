@@ -19,16 +19,19 @@ namespace MessingAround
             while (!quit)
             {
                 bool continueGame = true;
-                Console.WriteLine("Let's play some Hangman!");
-                Console.WriteLine("Please enter the word for the other person to guess: ");
+                Console.WriteLine("Let's play some Hangman!" +
+                                  "\n\nPlease enter the word for the other person to guess: ");
                 wordToGuess = Console.ReadLine().ToLower();
                 int wordLength = wordToGuess.Length;
                 char[] wordToGuessArray = new char[wordLength];
                 InitializeCharArray(wordToGuessArray);
                 wordToGuessHash = AddWordToHash(wordToGuess, wordToGuessHash);
+                HideWordFromGuesser();
+                Console.WriteLine("\nIt is now the guesser's turn.");
                 while (continueGame)
                 {
-                    Console.WriteLine("\nWhich letter would you like to guess?");
+                    Console.WriteLine("\nType \"help\" at any point to see your command options." +
+                                      "\n\nWhich letter would you like to guess?");
                     guessedLetter = Console.ReadLine().ToLower();
                     if (guessedLetter == "guessed")
                     {
@@ -48,6 +51,10 @@ namespace MessingAround
                     else if (guessedLetter == "hangman")
                     {
                         CurrentHangman(BodyParts, BodyPartsHash);
+                    }
+                    else if (guessedLetter == "help") 
+                    {
+                        DisplayHelpMenu();
                     }
                     else if (IsLetterAvailable(guessedLetter))
                     {
@@ -245,6 +252,20 @@ namespace MessingAround
             }
 
             return charArray;
+        }
+
+        static void DisplayHelpMenu() 
+        {
+            Console.WriteLine("\nhangman          -- shows you your current Hangman" +
+                              "\nbodypartsleft    -- shows you Hangman body parts left before you lose" +
+                              "\ncorrect          -- shows you correctly guessed letters" +
+                              "\navailable        -- shows you letters that are available to guess" +
+                              "\nguessed          -- shows you letters that have already been guessed");
+        }
+
+        static void HideWordFromGuesser()
+        {
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
         }
     }
 }

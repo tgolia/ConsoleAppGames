@@ -1,0 +1,11 @@
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp2.2\Hangman.deps.json
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.json
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.dev.json
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp2.2\Hangman.pdb
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.csprojAssemblyReference.cache
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfoInputs.cache
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfo.cs
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\Travis\Dev\ConsoleAppGames\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp2.2\Hangman.pdb
